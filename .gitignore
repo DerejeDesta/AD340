@@ -3,4 +3,5 @@ local.properties
 gradle.properties
 .idea/
 .gradle/
-app/src/main/res/layout/google_maps_api_key.xml
+app/src/main/res/values/google_maps_api_key.xml
+
