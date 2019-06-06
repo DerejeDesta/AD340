@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myapplication</string>
+    <string name="Connect">connectting...</string>
+    <string name="NotConnected">not connected</string>
+    <string name="Loading">Loading...</string>
+
+</resources>
